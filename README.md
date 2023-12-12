@@ -18,7 +18,7 @@ Following credentials can be used to log in the system
     <tbody>
         <tr>
             <td>01</td>
-            <td>Super Admin</td>
+            <td>Admin</td>
             <td>sadmin@sadmin.com</td>
             <td>password</td>
         </tr>
@@ -26,7 +26,7 @@ Following credentials can be used to log in the system
     <tbody>
         <tr>
             <td>02</td>
-            <td>Admin</td>
+            <td>Editor</td>
             <td>admin@admin.com</td>
             <td>password</td>
         </tr>
@@ -42,7 +42,7 @@ Following credentials can be used to log in the system
         <tbody>
         <tr>
             <td>04</td>
-            <td>Editor</td>
+            <td>viewer</td>
             <td>editor@editor.com</td>
             <td>password</td>
         </tr>
@@ -122,5 +122,3 @@ Finally initiate your server on a new terminal and enjoy !!!
 </pre>
 
 ## Api resource
-
-Postman collection for this repository can be found here in https://www.postman.com/cms-spa-036/workspace/cms-role-permission-laravel-vue
